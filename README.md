@@ -1,6 +1,6 @@
-# Setup dan Jalankan Filament di Laravel
+# Setup dan Jalankan Aplikasi Buku Tamu di Laravel Fillament
 
-Filament adalah sebuah admin panel untuk Laravel yang mudah digunakan dan dikustomisasi. Berikut adalah langkah-langkah untuk mengkloning dan menjalankan Filament di aplikasi Laravel kamu.
+
 
 ## Prasyarat
 
