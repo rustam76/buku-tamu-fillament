@@ -32,6 +32,15 @@ composer install
 
 ```
 
+lalu install
+
+```bash
+npm install && npm run build
+```
+
+
+
+
 ### 4. Setel File .env
 Salin file .env.example menjadi .env untuk mengonfigurasi file environment:
 ```bash
