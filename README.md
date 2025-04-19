@@ -38,7 +38,17 @@ Salin file .env.example menjadi .env untuk mengonfigurasi file environment:
 cp .env.example .env
 ```
 
-Kemudian, atur konfigurasi database dan pengaturan lainnya di file .env.
+Kemudian, atur konfigurasi database dan pengaturan lainnya di file .env
+
+```bash
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=db_buku_tamu_fillament
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
 
 ### 5. Generate Kunci Aplikasi
 Laravel membutuhkan kunci aplikasi yang digunakan untuk enkripsi dan keamanan. Jalankan perintah berikut untuk menghasilkan kunci aplikasi:
